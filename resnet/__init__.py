@@ -10,8 +10,9 @@ MODEL_DIR = os.path.join(BASE, 'models')
 MODEL_NAME = 'model.tfmodel'
 MODEL_PATH = os.path.join(MODEL_DIR, MODEL_NAME)
 
-with open(MODEL_PATH, 'rb') as fin:
-    model_data = fin.read()
+# with open(MODEL_PATH, 'rb') as fin:
+#     model_data = fin.read()
+model_data = "temp"
 
 
 def validate(image):
