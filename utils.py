@@ -1,6 +1,5 @@
 import shutil
 
-import cv2
 import matplotlib
 import numpy as np
 import skimage.transform
@@ -40,10 +39,6 @@ def array2image(ndarray):
     raw = ndarray * 255
     img = Image.fromarray(raw.astype('uint8'), 'RGB')
     return img
-
-
-def convert_gray(img):
-    return cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 
 def save_image(nparray, file_path):
