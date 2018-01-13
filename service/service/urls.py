@@ -21,6 +21,5 @@ from service import apis
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
     url(r'^api/test1/?', apis.test),
-    url(r'^api/test2/?', apis.test1),
     url(r'^api/colorit/?', apis.colorize)
 ]
