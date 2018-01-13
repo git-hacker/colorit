@@ -38,7 +38,7 @@ def colorize(request):
         buffer = io.BytesIO()
         image.save(buffer, format='jpeg')
         b64str = base64.b64encode(buffer.getvalue())
-        print("base 64 string length: ", b64str)
+        print("base 64 string length: ", len(b64str))
         return Response(b64str)
 
     return Response(serializer.errors)
