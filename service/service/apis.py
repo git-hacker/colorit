@@ -6,12 +6,13 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 import resnet
+from service.settings import BASE_DIR
 from utils import *
 
-
+tmp = os.path.join(BASE_DIR, '2.jpg')
 @api_view(['GET', 'POST'])
 def test(request):
-    ar = load_image('2.jpg')
+    ar = load_image(tmp)
     print(ar.shape)
     image = array2image(ar)
     buffer = io.BytesIO()
@@ -22,7 +23,7 @@ def test(request):
 
 @api_view(['GET'])
 def test1(request):
-    image = load_image('2.jpg')
+    image = load_image(tmp)
     b64str = base64.b64encode(image)
     return Response(b64str)
 
