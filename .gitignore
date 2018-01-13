@@ -3,7 +3,6 @@ __pycache__/
 .DS_Store
 images/
 rz_caffe/
-playground.py
 *.jpg
 forward.py
 db.sqlite3
