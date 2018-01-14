@@ -1,0 +1,65 @@
+.video_div {
+  opacity: 1;
+  overflow: hidden;
+}
+
+#xpc_video {
+  width: 100%;
+  visibility: visible;
+  z-index: -1;
+}
+
+.video-div {
+  position: relative;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 40%;
+  background: black;
+  overflow: hidden;
+}
+
+.video-part {
+  width: 100%;
+  z-index: 5;
+}
+
+.cover {
+  width: 45%;
+  position: absolute;
+  top: 200px;
+  left: 25%;
+  z-index: 10;
+}
+
+.cover h1 {
+  text-align: center;
+  font-size: 4em;
+  color: white;
+  opacity: 0.8;
+}
+
+.cover p {
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  opacity: 0.8;
+}
+
+.video-label {
+  padding-top: 12px;
+  padding-bottom: 15px;
+  width: 94%;
+  display:-moz-inline-box;
+  display:inline-block;
+  border-radius:35px;  
+}
+
+.time-line-div {
+	margin-top: 2%;
+}
+
+.time-line, .human-card{
+	margin-top: 5%;
+}

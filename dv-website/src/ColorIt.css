@@ -1,0 +1,26 @@
+.color_img {
+	height: 230px;
+}
+
+.bwall h1 {
+	text-align: center;
+	font-size: 5em;
+	color: white;
+}
+
+.bwall h2 {
+	text-align: left;
+	font-size: 3em;
+	color: white;
+	margin-top: 6px;
+}
+
+.bwall {
+	background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515879132999&di=0d7d36d0ce289b33c4125cae2ed6b76f&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D0367543bc711728b24208461a095a9bb%2F4610b912c8fcc3ce119a12999845d688d53f20c6.jpg');
+}
+
+.emp-img {
+	border-style: groove;
+	border-width: 4px;
+	border-radius: 10px;
+}

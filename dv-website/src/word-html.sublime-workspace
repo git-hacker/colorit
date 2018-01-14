@@ -1,0 +1,690 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"Ro",
+				"BrowserRouter"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"C",
+				"Col"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"s",
+				"slidesToScroll"
+			],
+			[
+				"sli",
+				"slidesToShow"
+			],
+			[
+				"Rou",
+				"Route"
+			],
+			[
+				"R",
+				"Router"
+			],
+			[
+				"ro",
+				"Router"
+			],
+			[
+				"react-",
+				"react-router-dom’"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"echa",
+				"echarts-wordcloud"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"change",
+				"changeMapFunction"
+			],
+			[
+				"com",
+				"componentWillMount\t Life Cycle"
+			],
+			[
+				"comp",
+				"componentDidMount\t Life Cycle"
+			],
+			[
+				"TEM_",
+				"TEM_Max"
+			],
+			[
+				"apiD",
+				"api_data"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"L",
+				"LayStyle"
+			],
+			[
+				"res",
+				"resource_list"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"F",
+				"FormItem"
+			],
+			[
+				"App",
+				"AppCreate"
+			],
+			[
+				"P",
+				"passWord"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"co",
+				"cookie"
+			],
+			[
+				"me",
+				"menu_user"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"M",
+				"menu"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"p",
+				"praiseConent"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"plu",
+				"plugins"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"prop",
+				"PropTypes"
+			],
+			[
+				"H",
+				"HelloMessage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/src/App.js",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/public/index.html",
+			"settings":
+			{
+				"buffer_size": 1746,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/src/App.css",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "jsx",
+		"selected_items":
+		[
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend"
+	],
+	"file_history":
+	[
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/SpiderMan/RecruitSpider/RecruitSpider/items.py",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/echarts_component/hightcharts.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/echarts_component/Bubble_config.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/FirstPage.css",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/FirstPage.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/index.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/RecruitBigData.css",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/RecruitBigData.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/public/index.html",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/react/website/src/App.js",
+		"/Users/monstar/Desktop/App.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/react/website/package.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/package.json",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/App.css",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/App.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/index.css",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/milk/Carousel.js",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/src/milk/Carousel.css",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/node_modules/react-slick/README.md",
+		"/Users/monstar/Desktop/ProjectCode/bigdatarecruit/dv-website/node_modules/echarts/echarts.all.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/react/antd-demo/node_modules/echarts-wordcloud/dist/echarts-wordcloud.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/type1.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/type2.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/apiData.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/apiData2.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/App.css",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/App.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/Lunar.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/src/LunarUtil.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/index.html",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/build/static/js/main.72bacef1.js.map",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/build/static/js/main.72bacef1.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/weatherData.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/alarmInfo.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/config/webpack.config.dev.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/data.json",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/public/xj.jpeg",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/node_modules/fsevents/install.js",
+		"/Users/monstar/Desktop/ProjectCode/git/movie/main.py",
+		"/Users/monstar/Desktop/ProjectCode/git/movie/mov.sql",
+		"/Users/monstar/Desktop/ProjectCode/_sublime_projects/yjs-spider.sublime-workspace",
+		"/Users/monstar/Desktop/ProjectCode/YJS-Spider/YJS/items.py",
+		"/Users/monstar/Downloads/cc_collection.sql",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/test.py",
+		"/Users/monstar/Desktop/ProjectCode/personal/weather-station/config/webpack.config.prod.js",
+		"/Users/monstar/Desktop/ProjectCode/YJS-Spider/errLog.txt",
+		"/Users/monstar/Desktop/ProjectCode/personal/qxj/backend/views/layouts/header.php",
+		"/Users/monstar/Desktop/ProjectCode/personal/qxj/backend/web/robots.txt",
+		"/Users/monstar/Documents/数据库文件/应届生招聘网/YJS.sql",
+		"/Users/monstar/Desktop/ProjectCode/git/YJS/YJS/spiders/yjs.py",
+		"/Users/monstar/Desktop/ProjectCode/Spider/AticalSpider/AticalSpider/settings.py",
+		"/Users/monstar/Documents/YJS.sql",
+		"/Users/monstar/Documents/Monstargram.sql",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/monstar/Desktop/ProjectCode/hacker/he_offcial_website/project/hesite/he_nginx.conf",
+		"/Users/monstar/Desktop/ProjectCode/Spider/yjs.py",
+		"/Users/monstar/Desktop/ProjectCode/Spider/AticalSpider/main.py",
+		"/Monstagram_backend/wsgi.py",
+		"/Monstagram_backend/uwsgi.ini",
+		"/Users/monstar/Desktop/ProjectCode/hacker/he_offcial_website/project/hesite/he_uwsgi.ini",
+		"/Monstagram_backend/log/httpServer.log",
+		"/Monstagram_backend/uwsgi.pid",
+		"/Users/monstar/Desktop/ProjectCode/Monstagram_backend/uwsgi.ini",
+		"/Users/monstar/Desktop/ProjectCode/hacker/he_offcial_website/project/hesite/hesite/wsgi.py",
+		"/usr/local/etc/monstagram.ini",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/foobar.py",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/config/webpack.config.dev.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/config/webpack.config.prod.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/src/App.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/src/Global.js",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/public/index.html",
+		"/Users/monstar/Desktop/ProjectCode/personal/test/antd-demo/public/resource_list.json",
+		"/Library/WebServer/Documents/index.html.en",
+		"/private/etc/apache2/original/httpd.conf",
+		"/Users/monstar/Desktop/ProjectCode/frontend/node_modules/antd/dist/antd-with-locales.js",
+		"/Users/monstar/Desktop/ProjectCode/frontend/public/index.html",
+		"/Users/monstar/Desktop/ProjectCode/frontend/src/praise.js",
+		"/Users/monstar/Desktop/ProjectCode/frontend/config/webpack.config.dev.js",
+		"/Users/monstar/Desktop/ProjectCode/antd-demo/src/App.css",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/.roadhogrc",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/src/routes/Products.js",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/src/models/products.js",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/src/components/ProductList.js",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/node_modules/_dva@1.2.1@dva/dist/mobile.js",
+		"/Users/monstar/Desktop/ProjectCode/dva-quickstart/node_modules/_dva@1.2.1@dva/dist/dva.js",
+		"/Users/monstar/Desktop/ProjectCode/my-app/src/index.js",
+		"/Users/monstar/Desktop/ProjectCode/my-app/package.json",
+		"/Users/monstar/Desktop/ProjectCode/my-app/src/index.css",
+		"/Users/monstar/Desktop/ProjectCode/WebStation/webpack/webpack.config.js",
+		"/private/var/log/apache2/error_log",
+		"/private/etc/apache2/original/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/monstar/Desktop/ProjectCode/WebStation/webpack/src/components/Main.js",
+		"/Users/monstar/Desktop/ProjectCode/WebStation/webpack/README.md",
+		"/Users/monstar/Desktop/ProjectCode/WebStation/test.py",
+		"/Users/monstar/Desktop/ProjectCode/Monstagram/Monstagram/urls.py",
+		"/Users/monstar/Desktop/ProjectCode/Monstagram/Monstagram/settings.py",
+		"/Users/monstar/Desktop/ProjectCode/Monstagram/manage.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1178,
+								1178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/monstar/Desktop/ProjectCode/git/online-preview-word/frontend/src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.6,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.65,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 185.0
+	},
+	"pinned_build_system": "",
+	"project": "word-html.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"src/App.css"
+			],
+			[
+				"app.",
+				"src/App.css"
+			],
+			[
+				"install",
+				"node_modules/fsevents/install.js"
+			],
+			[
+				"itempy",
+				"YJS/items.py"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"itepy",
+				"YJS/items.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/ProjectCode/sublime_project/wheather.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
