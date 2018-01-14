@@ -17,7 +17,7 @@ Page({
   },
   handlePlayAgain: function () {
     this.setData({
-      item: 'image',
+      item: 'camera',
       imageAddSrc: '../../image/camera.svg',
       isShowCamera: true,
       isShowCanvas: false,
