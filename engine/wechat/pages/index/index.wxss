@@ -42,7 +42,7 @@
   animation: enlarge-and-fadeout 2s linear infinite;
 }
 
-.item-canvas {
+.item-image {
   top: -10%;
   width: 100%;
   height:100%;

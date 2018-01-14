@@ -3,13 +3,9 @@
   <image mode="scaleToFill" src="{{imageBgSrc}}" class="image-bg"/>
 
   <view class="add-con">
-    <canvas
-      class="image-item item-canvas"
-      canvas-id="canvas"
-      wx:if="{{isShowCanvas}}"
-      bindtap="handleSaveImage" />
     <image
-      class="image-item item-camera"
+      class="image-item item-{{item}}"
+      data-type="{{item}}"
       mode="widthFix"
       src="{{imageAddSrc}}"
       wx:if="{{isShowCamera}}"
