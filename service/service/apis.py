@@ -1,17 +1,27 @@
 import base64
 import io
+import os
+import sys
 
 from rest_framework import serializers
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
-import resnet
 from service.settings import BASE_DIR
+
+outer_path = os.path.dirname(BASE_DIR)
+
+sys.path.append(outer_path)
+
+import resnet
+
 from utils import *
 
-tmp = os.path.join(BASE_DIR, '2.jpg')
+
 @api_view(['GET', 'POST'])
 def test(request):
+    tmp = os.path.join(outer_path, '2.jpg')
+    print(tmp)
     ar = load_image(tmp)
     image = array2image(ar)
     buffer = io.BytesIO()
