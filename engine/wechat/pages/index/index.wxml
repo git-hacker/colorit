@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<view class="container">
+  <image mode="scaleToFill" src="{{imageBgSrc}}" class="image-bg"/>
+
+  <view class="add-con">
+    <canvas
+      class="image-item item-canvas"
+      canvas-id="canvas"
+      wx:if="{{isShowCanvas}}"
+      bindtap="handleSaveImage" />
+    <image
+      class="image-item item-camera"
+      mode="widthFix"
+      src="{{imageAddSrc}}"
+      wx:if="{{isShowCamera}}"
+      bindtap="handleChooseImage"/>
+    <text class="text-item" wx:if="{{isShowText}}">上传一张黑白照片</text>
+  </view>
+
+  <button
+    class="btn-back"
+    bindtap="handlePlayAgain"
+    wx:if="{{isShowAgainButton}}">再来一次</button>
+
+  <progress
+    id="progress"
+    class="progress-item"
+    wx:if="{{isProgress}}"
+    percent="{{progressPercent}}"
+    stroke-width="4"
+    activeColor="white"
+    backgroundColor="#333"
+    active="true"
+    active-mode="forwards"/>
+</view>
