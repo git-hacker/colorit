@@ -19,7 +19,7 @@ const menu = (
       <a rel="noopener noreferrer" href="http://www.taobao.com/">Word2Vec</a>
     </Menu.Item>
     <Menu.Item>
-      <a target="_blank" rel="noopener noreferrer" href="http://www.tmall.com/">3rd menu item</a>
+      <a rel="noopener noreferrer" href="http://www.tmall.com/">3rd menu item</a>
     </Menu.Item>
   </Menu>
 );
@@ -30,7 +30,7 @@ const menu_c = (
       <a rel="noopener noreferrer" href="/colorit">老照片记忆</a>
     </Menu.Item>
     <Menu.Item>
-      <a target="_blank" rel="noopener noreferrer" href="/oldChengDu">老成都</a>
+      <a rel="noopener noreferrer" href="/oldChengDu">老成都</a>
     </Menu.Item>
     <Menu.Item>
       <a rel="noopener noreferrer" href="#">老电影</a>
