@@ -10,7 +10,7 @@ This city is burdened with a long, rich history in which we can learn all about 
 
 The core functionality of the project is called grayscale image colorization, and the project name **COLORIT!** combines the words "color" and "it" together to illustrate the meaning of the functionality. The project application consists of three modules: 
 
-### 1. Website
+### 1. [Website](http://sevnday.com/colorit)
 
 A portal to showcase our team's original idea of bringing "life" to the old city, powered by the deep learning system.
 
